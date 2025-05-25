@@ -86,7 +86,7 @@ section{
     text-align: right;
 }
 .home-content h1{
-    font-size: 9rem;
+    font-size: 7rem;
     font-weight: 800;
     margin-top: 1.5rem;
     line-height: 1;
@@ -96,11 +96,11 @@ section{
 }
 
 .home-content h3{
-    font-size: 5rem;
+    font-size: 3rem;
     margin: 1rem 0;
 }
 .home-content p{
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: 500;
     line-height: 1.8;
 }
@@ -190,11 +190,11 @@ section{
                 0 0 120px var(--main-color);
 }
 .about-content h2{
-    font-size: 7rem;
+    font-size: 5rem;
     text-align: left;
 }
 .about-content p{
-    font-size: 2rem;
+    font-size: 1.6rem;
 }
 .about-content .btn{
     margin: 3rem 0;
@@ -213,7 +213,7 @@ section{
     background-color: var(--bg-color);
 }
 .projects h2{
-    font-size: 7rem;
+    font-size: 5rem;
     text-align: center;
     margin: 5rem 0;
 }
@@ -259,7 +259,7 @@ section{
 }
 
 .project-card p{
-    font-size: 2rem;
+    font-size: 1.6rem;
 }
 
 
