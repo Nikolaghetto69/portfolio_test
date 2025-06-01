@@ -317,7 +317,7 @@ section{
         position: absolute;
         top:100%;
         right: 0;
-        width: 50%;
+        width: 99%;
         padding: 1rem 3rem;
         background-color: rgba(0, 0, 0, 0.803);
         border-left: 2px solid var(--main-color);
